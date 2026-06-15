@@ -77,7 +77,7 @@
 | ☸️ Kubernetes | ✅ Complete | Day 38-45 |
 | ⛵ Helm + ArgoCD + Terraform | ✅ Complete | Day 46-57 |
 | 📊 Monitoring (Prometheus, Grafana, Jaeger) | ✅ Complete | Day 58-60 |
-| 🐍 Python for DevOps |  ✅ Complete🔄 In Progress | Day 61-64 |
+| 🐍 Python for DevOps |  ✅ Complete | Day 61-64 |
 | 🤖 AI Agents / GenAI for DevOps | 🔄 In Progress | Day 65-70 |
 | 🏆 Real World Projects | ⬜ Upcoming | Day 71-80 |
 | 🎯 Resume + Interview Prep | ⬜ Upcoming | Day 81-90 |
