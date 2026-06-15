@@ -62,21 +62,25 @@
 
 ---
 
-## 📊 #90DaysOfDevOps — Current Progress
+## 📅 #90DaysOfDevOps — Current Progress
 
 | Topic | Status | Days |
-|-------|--------|------|
-| 🐧 Linux | ✅ Complete | Day 1–5 |
-| 🌐 Networking | ✅ Complete | Day 6–7 |
-| 💻 Shell Scripting | ✅ Complete | Day 8–12 |
+|---|:---:|---|
+| 🐧 Linux | ✅ Complete | Day 1-5 |
+| 🌐 Networking | ✅ Complete | Day 6-7 |
+| 💻 Shell Scripting | ✅ Complete | Day 8-12 |
 | ⚙️ DevOps Fundamentals | ✅ Complete | Day 13 |
-| 🔧 Git & GitHub | ✅ Complete | Day 14–17 |
-| ☁️ AWS | ✅ Complete | Day 18–26 |
-| 🐳 Docker | ✅ Complete | Day 27–32 |
-| 🔄 Jenkins | ✅ Complete | Day 33–37 |
-| ☸️ Kubernetes | 🔄 In Progress | Day 38–45 |
-| ⛵ Helm + ArgoCD + Terraform | ⬜ Upcoming | Day 46–57 |
-| 📊 Prometheus + Grafana | ⬜ Upcoming | Day 58–61 |
+| 🔧 Git & GitHub | ✅ Complete | Day 14-17 |
+| ☁️ AWS | ✅ Complete | Day 18-26 |
+| 🐳 Docker | ✅ Complete | Day 27-32 |
+| 🔄 Jenkins | ✅ Complete | Day 33-37 |
+| ☸️ Kubernetes | ✅ Complete | Day 38-45 |
+| ⛵ Helm + ArgoCD + Terraform | ✅ Complete | Day 46-57 |
+| 📊 Monitoring (Prometheus, Grafana, Jaeger) | ✅ Complete | Day 58-60 |
+| 🐍 Python for DevOps | 🔄 In Progress | Day 61-65 |
+| 🤖 AI Agents / GenAI for DevOps | ⬜ Upcoming | Day 66-70 |
+| 🏆 Real World Projects | ⬜ Upcoming | Day 71-80 |
+| 🎯 Resume + Interview Prep | ⬜ Upcoming | Day 81-90 |
 
 ---
 
