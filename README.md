@@ -2,19 +2,18 @@
 <h3 align="center">DevOps & Cloud Engineer | AWS Certified SAA | RHCSA | 3.4 Yrs Kyndryl | #90DaysOfDevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;AWS+Certified+Solutions+Architect;RHCSA+Certified+%7C+3.4+Yrs+Kyndryl;Currently+on+90+Days+of+DevOps+Challenge!;Docker+%E2%9C%85+Jenkins+%E2%9C%85+Kubernetes+%F0%9F%94%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;AWS+Certified+Solutions+Architect;RHCSA+Certified+%7C+3.4+Yrs+Kyndryl;4+End-to-End+DevOps+Projects+Shipped;Docker+%E2%9C%85+Jenkins+%E2%9C%85+Kubernetes+%E2%9C%85+Terraform+%E2%9C%85" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **90 Days of DevOps** — Docker, Jenkins, Kubernetes, Terraform & more
-- 🌱 Currently learning **Kubernetes** — deployments, services, ingress, HPA
-- 💼 3.4 years at **Kyndryl India** — AWS, Linux, IBM DB2, ServiceNow (production)
-- 🏆 **AWS Certified** Solutions Architect – Associate | **RHCSA** Certified
-- 🎯 Building end-to-end **CI/CD pipelines** and **real-world DevOps projects**
-- 👨‍💻 All my projects: [github.com/RB5437/Devops_90-Days](https://github.com/RB5437/Devops_90-Days)
+- 🏆 Completed **90 Days of DevOps** — Linux to Kubernetes to Terraform to GitOps, currently in the final revision + interview-prep stretch
+- 💼 3.4 years at **Kyndryl India** — AWS, Linux, IBM DB2, ServiceNow (production support)
+- 🎯 Designed, built, and deployed **4 end-to-end DevOps projects** with real production-style debugging (see below)
+- 🏅 **AWS Certified** Solutions Architect – Associate | **RHCSA** Certified
+- 👨‍💻 Full 90-day journey: [github.com/RB5437/Devops_90-Days](https://github.com/RB5437/Devops_90-Days)
 - 📫 Reach me at: **ritikbawane5437@gmail.com**
 - 📍 Nagpur, India | **Open to Relocation** | Available Immediately
 - ⚡ Fun fact: I document everything — every command, every mistake, every win!
@@ -50,6 +49,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
@@ -62,7 +62,23 @@
 
 ---
 
-## 📅 #90DaysOfDevOps — Current Progress
+## 🏆 Capstone Projects
+
+### 🔄 [Ultimate CI/CD Pipeline — Jenkins + ArgoCD + Kubernetes](https://github.com/RB5437/Ultimate-CI-CD-Pipeline-Jenkins-End-to-End-Project)
+GitHub webhook → Jenkins (Maven build → SonarQube scan → Docker build/push) → ArgoCD auto-syncs to Kubernetes. Code-push-to-live-pod in under 10 minutes, zero manual steps.
+
+### 🏗️ [Terraform Multi-Environment AWS Infrastructure](https://github.com/RB5437/Terraform-Multi-Environment-AWS-Infrastructure)
+Reusable IaC codebase provisioning isolated Dev/Production environments (EC2, S3, DynamoDB) from a single module, with S3 + DynamoDB remote state and locking.
+
+### ☸️ [Kubernetes Voting App with Full Observability Stack](https://github.com/RB5437/k8s-kind-voting-app)
+5-microservice voting app on a Kind cluster, self-written manifests, ArgoCD GitOps delivery, and a full kube-prometheus-stack monitoring setup with custom Grafana dashboards.
+
+### 🌍 [Wanderlust — MERN Stack on Self-Managed Kubernetes (kubeadm)](https://github.com/RB5437/wanderlust)
+Production-style Kubernetes cluster built from scratch using kubeadm (master + worker nodes, Calico CNI, CoreDNS) — not a managed service — running a 4-microservice MERN travel-blog app.
+
+---
+
+## 📅 #90DaysOfDevOps — Progress
 
 | Topic | Status | Days |
 |---|:---:|---|
@@ -74,13 +90,14 @@
 | ☁️ AWS | ✅ Complete | Day 18-26 |
 | 🐳 Docker | ✅ Complete | Day 27-32 |
 | 🔄 Jenkins | ✅ Complete | Day 33-37 |
-| ☸️ Kubernetes | ✅ Complete | Day 38-45 |
-| ⛵ Helm + ArgoCD + Terraform | ✅ Complete | Day 46-57 |
-| 📊 Monitoring (Prometheus, Grafana, Jaeger) | ✅ Complete | Day 58-60 |
-| 🐍 Python for DevOps |  ✅ Complete | Day 61-64 |
-| 🤖 AI Agents / GenAI for DevOps | ✅ Complete | Day 65-70 |
-| 🏆 Real World Projects | 🔄 In Progress | Day 71-80 |
-| 🎯 Resume + Interview Prep | ⬜ Upcoming | Day 81-90 |
+| ☸️ Kubernetes | ✅ Complete | Day 38-46 |
+| ⛵ Helm + ArgoCD + Terraform | ✅ Complete | Day 47-56 |
+| 📊 Monitoring (Prometheus, Grafana) | ✅ Complete | Day 57-60 |
+| 🐍 Python for DevOps | ✅ Complete | Day 61-64 |
+| 🏆 Capstone Projects 1-3 (Jenkins, Terraform, K8s Voting App) | ✅ Complete | Day 65-75 |
+| 🤖 AI Agents / GenAI for DevOps | ✅ Complete | Day 76-77 |
+| 🏆 Capstone Project 4 (Wanderlust on kubeadm) | ✅ Complete | Day 78-80 |
+| 🎯 Revision + Resume + Interview Prep | 🔄 In Progress | Day 81-90 |
 
 ---
 
