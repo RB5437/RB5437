@@ -14,6 +14,7 @@
 - 🎯 Designed, built, and deployed **4 end-to-end DevOps projects** with real production-style debugging (see below)
 - 🏅 **AWS Certified** Solutions Architect – Associate | **RHCSA** Certified
 - 👨‍💻 Full 90-day journey: [github.com/RB5437/Devops_90-Days](https://github.com/RB5437/Devops_90-Days)
+- 🌐 Portfolio: [rb5437.github.io](https://rb5437.github.io)
 - 📫 Reach me at: **ritikbawane5437@gmail.com**
 - 📍 Nagpur, India | **Open to Relocation** | Available Immediately
 - ⚡ Fun fact: I document everything — every command, every mistake, every win!
@@ -125,6 +126,9 @@ Production-style Kubernetes cluster built from scratch using kubeadm (master + w
 ## 🤝 Connect With Me
 
 <p align="left">
+  <a href="https://rb5437.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/ritik-bawane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
